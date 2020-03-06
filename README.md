@@ -1,2 +1,2 @@
 # ssm_crud
-ssm框架的增删改查
+使用eclipse写ssm框架的增删改查功能
